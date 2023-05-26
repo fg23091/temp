@@ -246,7 +246,7 @@
   "poster": "http://zegomovie.com/Uploads/vod/2019-05-30/5cef5b1320e22.jpg",
   "tag": "action jackie chan kungfu china",
   "link": "http://www.zegomovie.com/Videos/RobBHood/index.m3u8"
-}
+},
 {
   "name": "Escape Plan The Extractors",
   "poster": "http://zegomovie.com/Uploads/vod/2019-10-28/5db66ca8aa8b7.jpg",
