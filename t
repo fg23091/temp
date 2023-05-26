@@ -247,5 +247,83 @@
   "tag": "action jackie chan kungfu china",
   "link": "http://www.zegomovie.com/Videos/RobBHood/index.m3u8"
 }
+{
+  "name": "Escape Plan The Extractors",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-10-28/5db66ca8aa8b7.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/EscapePlanTheExtractors/index.m3u8"
+},
+{
+  "name": "Creed 2",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-06-27/5d144baf106f1.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/Creed2/index.m3u8"
+},
+{
+  "name": "The Specialist",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-06-12/5d00ce71744ca.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/TheSpecialist/index.m3u8"
+},
+{
+  "name": "Creed",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-06-03/5cf4ee4a29187.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/Creed/index.m3u8"
+},
+{
+  "name": "Escape Plan 2 Hades",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-06-13/5d021e1a60118.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/EscapePlan2Hades/index.m3u8"
+},
+{
+  "name": "Rambo V Last Blood",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-06-07/5cfa0bbb161c0.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/RamboVLastBlood/index.m3u8"
+},
+{
+  "name": "Bullet To The Head",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-06-06/5cf8bd4b6a2c1.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/BulletToTheHead/index.m3u8"
+},
+{
+  "name": "Assassins",
+  "poster": "http://zegomovie.com/Uploads/vod/2020-01-20/5e25339cb6bcc.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/Assassins/index.m3u8"
+},
+{
+  "name": "Rambo",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-05-27/5cebb808ca391.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/Rambo/index.m3u8"
+},
+{
+  "name": "The Expendables 3",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff243e730ec.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/TheExpendables3/index.m3u8"
+},
+{
+  "name": "The Expendables 2",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff23f98d34e.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/TheExpendables2/index.m3u8"
+},
+{
+  "name": "The Expendables 1",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff23b4a2426.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/TheExpendables1/index.m3u8"
+},
+{
+  "name": "Grudge Match",
+  "poster": "http://zegomovie.com/Uploads/vod/2019-06-06/5cf8e79722687.jpg",
+  "tag": "sylvester stallone action",
+  "link": "http://www.zegomovie.com/Videos/GrudgeMatch/index.m3u8"
+}
     ]
 }
