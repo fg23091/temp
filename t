@@ -1,4 +1,6 @@
-[
+{
+"status":true,
+"data":[
   {
     "type": "Header",
     "movies": [
@@ -7165,3 +7167,4 @@
     ]
   }
 ]
+}
